@@ -1,4 +1,4 @@
-https://zenodo.org/badge/DOI/10.5281/zenodo.1472355.svg
+![DOI 10.5281/Zenodo.1472354](https://zenodo.org/badge/DOI/10.5281/zenodo.1472354.svg)
 
 Scientific research is vital to the lives of Canadians, and software has become increasingly crucial to this research. To ensure that funding programs continue to meet the needs of Canada’s research and research software communities, CANARIE, in partnership with the UK Software Sustainability Institute (SSI), launched the second survey of Canadian research software developers in September 2018.
 
